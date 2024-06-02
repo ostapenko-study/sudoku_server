@@ -1,0 +1,7 @@
+[run]
+omit =
+    task28.py
+    examples.py
+    tests.py
+[report]
+    show_missing=true
