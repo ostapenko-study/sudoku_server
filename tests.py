@@ -104,6 +104,11 @@ def test_false_api_model():
             "cols": 3,
             "numbers": generate_array(9)
         },
+	{
+            "rows": 3,
+            "cols": 3,
+            "numbers": generate_array(9)
+        },
     ]:
         try:
             Data.model_validate(item)
