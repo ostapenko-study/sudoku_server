@@ -105,7 +105,7 @@ def test_false_api_model():
             "numbers": generate_array(9)
         },
 	{
-            "rows": 3,
+            "rows": None,
             "cols": 3,
             "numbers": generate_array(9)
         },
