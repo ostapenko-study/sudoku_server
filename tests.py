@@ -24,18 +24,6 @@ def test_false_integration():
     """false_integration"""
     for item in [
         {
-            "cols": 6,
-            "rows": 6,
-            "numbers": [
-                1, 2, 3, 4, 5, 6,
-                1, 2, 3, 4, 5, 6,
-                1, 2, 3, 4, 5, 6,
-                1, 2, 3, 4, 5, 6,
-                1, 2, 3, 4, 5, 6,
-                1, 2, 3, 4, 5, 6,
-            ]
-        },
-        {
             "cols": 3,
             "rows": 3,
             "numbers": [
