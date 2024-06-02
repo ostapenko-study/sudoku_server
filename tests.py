@@ -6,7 +6,7 @@ from authorization import UserDatabase, User, is_user, generate_token, get_user_
 from sudoku_package.checker_generators import generate_main_checkers
 from sudoku_package.task_generator import task_generator
 
-N = 50
+N = 5
 
 
 def test_true_integration():

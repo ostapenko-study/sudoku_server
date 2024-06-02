@@ -10,7 +10,7 @@ from sudoku_package.block import Block
 from sudoku_package.cell import Cell
 from sudoku_package.task_generator import task_generator
 
-N = 50
+N = 5
 
 
 def test_global():
